@@ -1,6 +1,6 @@
 # Crypto-Project1
 
-Project 1: Crack Ciphers
+**Project 1: Crack Ciphers**
 
 Due date: September 30, 2022 (Friday, at 11:59:59PM)
 
